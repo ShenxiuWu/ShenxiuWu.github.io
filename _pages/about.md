@@ -10,12 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building 28</p>
-    <p>Van Mourik Broekmanweg 6</p>
+    <p>Van Mourik</p>
+    <p>Broekmanweg 6</p>
     <p>2628 XE Delft</p>
     <p>The Netherlands</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Greetings! I am a Ph.D. student under the supervision of [Prof. Guohao Lan](https://guohao.netlify.app/) and [Prof. Qun Song](https://song-qun.github.io/) in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the [Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology) at [Delft University of Technology](https://www.tudelft.nl/en/), the Netherlands. My research interests are in the intersection of edge computing, AI Internet of Things (IoT), and TinyML across various domains, intending to build intelligent and resource-efficient edge AI-enhanced mobile systems.
